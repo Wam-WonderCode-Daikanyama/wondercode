@@ -7,3 +7,14 @@ H2{
    color: #18BD93;
    font-family: "Noto Sans JP";  
 }
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: Dash_10.jpg;
+  color: white;
+  background-size: cover;
+
