@@ -1,12 +1,4 @@
 
-H1{
-   color: #3A72B9;
-   font-family: "Noto Sans JP";  
-}
-H2{
-   color: #18BD93;
-   font-family: "Noto Sans JP";  
-}
 .container {
   width: 1170px;
   padding: 0 15px;
@@ -19,8 +11,11 @@ H2{
   background-size: cover;
 }
 .top-wrapper h1{
-  color:white;
+  color: #3A72B9;
+  font-family: "Noto Sans JP"; 
 }
 .top-wrapper p{
   color:white;
+  color: #18BD93;
+  font-family: "Noto Sans JP"; 
 }
