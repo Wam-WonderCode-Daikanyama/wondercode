@@ -7,14 +7,11 @@
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image:url("Dash_10.jpg");
-  color: white;
   background-size: cover;
 }
 .top-wrapper h1{
-  color: #3A72B9;
   font-family: "Noto Sans JP"; 
 }
 .top-wrapper p{
-  color: #18BD93;
   font-family: "Noto Sans JP"; 
 }
