@@ -8,6 +8,8 @@
   padding: 180px 0 100px 0;
   background-image:url("Dash_10.jpg");
   background-size: cover;
+  color:white;
+  text-align:center;
 }
 .top-wrapper h1{
   font-family: "Noto Sans JP"; 
