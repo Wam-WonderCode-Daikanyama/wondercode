@@ -13,7 +13,11 @@
 }
 .top-wrapper h1{
   font-family: "Noto Sans JP"; 
+  color:white;
+  text-align:center;
 }
 .top-wrapper p{
   font-family: "Noto Sans JP"; 
+  color:white;
+  text-align:center;
 }
