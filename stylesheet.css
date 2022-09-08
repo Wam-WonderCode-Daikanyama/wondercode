@@ -102,11 +102,21 @@
   text-align:center;
 }
 
+.sidebar{
+  height: 100%;
+  width: 150px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 40px;
+  background-color: lightblue;
+}
+
 .access{
 font-family: "Noto Sans JP"; 
   background-color:#FFDA2A;
   color:black;
-  height: 100px;
+  height: 120px;
   width: 100%;
 }
 
