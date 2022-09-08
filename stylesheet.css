@@ -102,6 +102,14 @@
   text-align:center;
 }
 
+.access{
+font-family: "Noto Sans JP"; 
+  background-color:#FFDA2A;
+  color:black;
+  height: 100px;
+  width: 100%;
+}
+
 .footer{
   font-family: "Noto Sans JP"; 
   background-color:#004294;
