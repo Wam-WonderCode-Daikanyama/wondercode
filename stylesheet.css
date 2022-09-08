@@ -86,13 +86,13 @@
   to {opacity: 1}
 }
 
-.body h1{
+.main message h1{
   font-family: "Noto Sans JP"; 
   color:##004294;
   text-align:center;
 }
 
-.body p{
+.main message p{
   font-family: "Noto Sans JP"; 
   color:#FFDA2A;
   text-align:center;
