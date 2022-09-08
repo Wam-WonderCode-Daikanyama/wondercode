@@ -106,16 +106,20 @@
   height: 100%;
   width: 150px;
   position: absolute;
-  left: 0;
   top: 0;
+  right: 0;
   padding-top: 40px;
+}
+
+.concept{
+  :#004294;
 }
 
 .access{
 font-family: "Noto Sans JP"; 
   background-color:#FFDA2A;
   color:black;
-  height: 120px;
+  height: 180px;
   width: 100%;
 }
 
