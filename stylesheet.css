@@ -105,10 +105,10 @@
 .sidebar{
   height: 100%;
   width: 150px;
-  position: -webkit-sticky; /* for Safari users */
-　position: sticky;
-  top: 0;
-  float: right;
+  position:-webkit-sticky; /* for Safari users */
+　position:sticky;
+  top:0px;
+  float:right;
   margin-top:100px;
   padding-top: 40px;
 }
