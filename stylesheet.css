@@ -108,7 +108,7 @@
   position: -webkit-sticky; /* for Safari users */
 　position: sticky;
   top: 0;
-  right: float;
+  float: right;
   margin-top:100px;
   padding-top: 40px;
 }
