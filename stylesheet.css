@@ -16,19 +16,6 @@ body {
   color: white;
 }
 
-.header:after { /* add the transparent pattern overlay */
- 
-	background: url(images/WonderCodeDaikanyama.png) center repeat;
-	content: "";
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	top: 0;
-	opacity: 0.7;
-	z-index: -1;
-	}
-  
 /* Increase the font size of the heading */
 .header h1 {
   font-size: 40px;
