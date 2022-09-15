@@ -25,6 +25,7 @@ body {
 .navbar {
   overflow: hidden;
   background-color: #FFDA2A;
+  color:#18BD93;
 }
 
 /* Style the navigation bar links */
@@ -45,7 +46,7 @@ body {
 /* Change color on hover */
 .navbar a:hover {
   background-color: #29A5D1;
-  color: black;
+  color: #f05b82;
 }
 
 /* Column container */
