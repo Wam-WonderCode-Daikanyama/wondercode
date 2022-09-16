@@ -11,6 +11,8 @@ body {
 /* Header/logo Title */
 .header {
   padding: 60px;
+  height:240px;
+  width:100%;
   text-align: center;
   background: #004294;
   color: white;
