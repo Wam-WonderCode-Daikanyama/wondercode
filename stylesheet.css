@@ -81,6 +81,13 @@ body {
   padding: 20px;
 }
 
+.concept body{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
 /* Footer */
 .footer {
   padding: 20px;
