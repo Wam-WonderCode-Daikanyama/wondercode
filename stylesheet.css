@@ -10,13 +10,24 @@ body {
 
 /* Header/logo Title */
 .header {
-  background-image:url(./images/WonderCodeDaikanyamaTheme.PNG);
   background: #004294;
   padding: 60px;
   height:500px;
   width:100%;
   text-align: center;
   color: white;
+}
+
+.header::after{
+  content:"";
+  background:url(./images/WonderCodeDaikanyamaTheme.PNG);
+  top:0;
+  bottom:0;
+  right:o;
+  left:0;
+  position:relative;
+  z-index:-1;
+  
 }
 
 /* Increase the font size of the heading */
