@@ -23,12 +23,6 @@ body {
   font-size: 40px;
 }
 
-.headerbackground{
-   padding:0;
-   height:500px;
-   width:100%;
-}
-
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden;
