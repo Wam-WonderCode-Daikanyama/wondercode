@@ -23,7 +23,7 @@ height:100px;
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image:url('../images/WonderThemeDesignOverlapped.png');
+  background-image:url('./WonderThemeDesignOverlapped.png');
   background-size:cover;
   color: white;
   text-align: center;
