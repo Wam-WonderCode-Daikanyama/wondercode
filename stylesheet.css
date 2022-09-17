@@ -20,7 +20,7 @@ body {
 
 .header::after{
   content:"";
-  background:url(./images/WonderCodeDaikanyamaTheme.PNG);
+  background:url(https://github.com/Wam-WonderCode-Daikanyama/wondercode/blob/f86ea705d607f3d92e62c03d32f1312e407c3c70/images/WonderCodeDaikanyamaTheme.PNG);
   top:0;
   bottom:0;
   right:o;
