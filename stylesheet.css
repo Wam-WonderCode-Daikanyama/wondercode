@@ -10,13 +10,12 @@ body {
 
 /* Header/logo Title */
 .logo{
-height:100px;
+  height:100px;
   width:300px;
 }
 
 /*Texts in Header*/
 .container {
-  height:500px;
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
