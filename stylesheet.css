@@ -18,6 +18,12 @@ body {
   color: white;
 }
 
+.headerimage{
+   background-image:url(./images/WonderCodeDaikanyamaTheme.PNG)
+   height:500px;
+   width:100%;
+}
+
 /* Increase the font size of the heading */
 .header h1 {
   font-size: 40px;
