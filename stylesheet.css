@@ -16,13 +16,13 @@ body {
 
 /*Texts in Header*/
 .container {
-  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  height:500px;
+  width:100%;
   background-image:url("WonderThemeDesignOverlapped.png");
   background-size:cover;
   color: white;
