@@ -10,7 +10,7 @@ body {
 
 /* Header/logo Title */
 .header {
-  background-image: url(https://github.com/Wam-WonderCode-Daikanyama/wondercode/blob/0fdda961015ba7b3dea8aa4e029d2eac9776cd6d/images/WonderCodeDaikanyamaTheme.PNG);
+  background: #004294;
   padding: 60px;
   height:500px;
   width:100%;
