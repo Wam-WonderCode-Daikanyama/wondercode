@@ -11,7 +11,7 @@ body {
 /* Header/logo Title */
 .header {
   padding: 180px 0 100px 0;
-  background-image:url('https://github.com/Wam-WonderCode-Daikanyama/wondercode/blob/f268a9c080b0b495932e9aff033df8c01a2826d5/images/WonderThemeDesignOverlapped.png');
+  background-image:url(https://github.com/Wam-WonderCode-Daikanyama/wondercode/blob/f268a9c080b0b495932e9aff033df8c01a2826d5/images/WonderThemeDesignOverlapped.png);
   height:500px;
   width:100%;
   text-align: center;
