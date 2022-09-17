@@ -16,6 +16,7 @@ height:100px;
 
 /*Texts in Header*/
 .container {
+  height:500px;
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
@@ -24,8 +25,6 @@ height:100px;
 .top-wrapper {
   background-image:url("WonderThemeDesignOverlapped.png");
   background-size:cover;
-  height:500px;
-  width:100%;
   color: white;
   text-align: center;
 }
