@@ -9,18 +9,24 @@ body {
 }
 
 /* Header/logo Title */
-header {
-  padding: 180px 0 100px 0;
-  background-image:url(https://github.com/Wam-WonderCode-Daikanyama/wondercode/blob/f268a9c080b0b495932e9aff033df8c01a2826d5/images/WonderThemeDesignOverlapped.png);
-  height:500px;
-  width:100%;
-  text-align: center;
-  color: white;
+.logo{
+height:100px;
+  width:300px;
 }
+
 /*Texts in Header*/
 .container {
+  width: 100%;
   padding: 0 15px;
-  margin:0 auto; 
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image:url(https://github.com/Wam-WonderCode-Daikanyama/wondercode/blob/f268a9c080b0b495932e9aff033df8c01a2826d5/images/WonderThemeDesignOverlapped.png);
+  background-size:cover;
+  color: white;
+  text-align: center;
 }
 
 /* Increase the font size of the heading */
