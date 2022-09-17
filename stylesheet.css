@@ -10,7 +10,7 @@ body {
 
 /* Header/logo Title */
 .header {
-  background-image:url("/images/WonderThemeDesignOverlapped.png");
+  background-image:url('https://github.com/Wam-WonderCode-Daikanyama/wondercode/blob/f268a9c080b0b495932e9aff033df8c01a2826d5/images/WonderThemeDesignOverlapped.png');
   background-size:cover;
   text-align: center;
   color: white;
