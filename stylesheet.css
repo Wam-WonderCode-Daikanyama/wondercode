@@ -21,7 +21,8 @@ body {
 }
 
 .top-wrapper {
-  height:480px;
+  padding:100px 0 100px 0;
+  height:400px;
   width:100%;
   background-image:url("WonderThemeDesignOverlapped.png");
   background-size:cover;
